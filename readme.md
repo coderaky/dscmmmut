@@ -1,4 +1,4 @@
-# [DSC MMMUT 🔥](https://dscmmmut.live)
+# [DSC MMMUT](https://dscmmmut.live) 🔥
 This awesome Progressive Web App was created for Developer Student Clubs in Madan Mohan Malaviya University of Technology as a profile and a platform to showcase what they're upto in events, outreach to local businesses and showcases and most importantly their success stories to the world.
 
 ![](https://img.shields.io/github/issues/coderaky/dscmmmut)
