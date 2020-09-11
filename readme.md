@@ -32,8 +32,8 @@ This awesome Progressive Web App was created for Developer Student Clubs in Mada
 * Install Node.js (v8.9.4 or above)
 * launch command prompt/terminal 
 * ```cd documents```
-* ```git clone https://github.com/kelvinkamau/Vibranium```
-* ```cd Vibranium```
+* ```git clone https://github.com/coderaky/dscmmmut```
+* ```cd dscmmmut```
 * Install project dependencies: ```npm install or yarn```
 * Install Firebase CLI: ```npm i -g firebase-tools```or  ```yarn global add firebase-tools```
 * Create a new firebase project [here](https://console.firebase.google.com/)
