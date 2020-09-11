@@ -1,11 +1,11 @@
 # DSC MMMUT 🔥
 This awesome Progressive Web App was created for Developer Student Clubs in Madan Mohan Malaviya University of Technology as a profile and a platform to showcase what they're upto in events, outreach to local businesses and showcases and most importantly their success stories to the world.
 
-https://img.shields.io/github/issues/coderaky/dscmmmut
-https://img.shields.io/github/forks/coderaky/dscmmmut
-https://img.shields.io/github/stars/coderaky/dscmmmut
-https://img.shields.io/github/license/coderaky/dscmmmut
-https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fcoderaky%2Fdscmmmut
+![](https://img.shields.io/github/issues/coderaky/dscmmmut)
+![](https://img.shields.io/github/forks/coderaky/dscmmmut)
+![](https://img.shields.io/github/stars/coderaky/dscmmmut)
+![](https://img.shields.io/github/license/coderaky/dscmmmut)
+![](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fcoderaky%2Fdscmmmut)
 
 
 | Name | Source Code| Demo |
