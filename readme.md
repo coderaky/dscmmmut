@@ -54,9 +54,9 @@ This awesome Progressive Web App was created for Developer Student Clubs in Mada
 ## Updating
 Here is a git workflow for updating your fork (or downloaded copy) to the latest version:
 ```git
-git remote add upstream https://github.com/kelvinkamau/Vibranium.git
+git remote add upstream https://github.com/coderaky/dscmmmut.git
 git fetch upstream
-git merge upstream/Vibranium
+git merge upstream/dscmmmut
 # resolve the merge conflicts in your editor
 git add . -u
 git commit -m 'Updated to the latest version'
