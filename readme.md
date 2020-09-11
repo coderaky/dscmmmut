@@ -1,25 +1,13 @@
-<p align="center">
-<img width="300" height="140" alt="Vibranium" src="https://github.com/kelvinkamau/Vibranium/blob/master/src/images/vibranium.png">
-</p>
+# DSC MMMUT 🔥
+This awesome Progressive Web App was created for Developer Student Clubs in Madan Mohan Malaviya University of Technology as a profile and a platform to showcase what they're upto in events, outreach to local businesses and showcases and most importantly their success stories to the world.
 
-# Project Vibranium 🔥
-This awesome Progressive Web App was created for Developer Student Clubs in Sub Saharan Africa as a profile and a platform to showcase what they're upto in events, outreach to local businesses and showcases and most importantly their success stories to the world.
-
-
-![](https://img.shields.io/badge/Built%20by-DSC%20Sub%20Saharan%20Africa-brightgreen.svg)
-[![Build Status](https://travis-ci.org/kelvinkamau/Vibranium.svg?branch=master)](https://travis-ci.org/kelvinkamau/Vibranium)
-![](https://img.shields.io/github/forks/kelvinkamau/Vibranium.svg?style=social)
-![](https://img.shields.io/github/issues/kelvinkamau/Vibranium.svg)
-![](https://img.shields.io/maintenance/yes/2019.svg)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/9ec27af46e31459f9c11a4c1f5ff6f71)](https://www.codacy.com/app/kamaucodes/Vibranium?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=kelvinkamau/Vibranium&amp;utm_campaign=Badge_Grade)
 
 | Name | Source Code| Demo |
 | --- | --- | --- |
-| Dark Theme | [GitHub](https://github.com/kelvinkamau/vibranium-dark) | [Preview](https://devclub-kisii.firebaseapp.com) |
-|Light Theme | [GitHub](https://github.com/kelvinkamau/Vibranium) | [Preview](https://kelvinkamau.github.io/Vibranium) |
+|Light Theme | [GitHub](https://github.com/coderaky/dscmmmut) | [Preview](https://dscmmmut.live) |
 
-## Creators 👨‍💻
-* [DSC Sub Saharan Africa Leads](https://github.com/DSCLEADSAfrica)
+## Creator 👨‍💻
+* [coderaky](https://coderaky.com)
 
 
 ## Usage 🛠
@@ -69,7 +57,7 @@ git commit -m 'Updated to the latest version'
 ```
 
 ## Contributing
-Project Vibranium is an open source software project and I encourage developers to contribute patches and code for us to include in the main package of Project Vibranium. All contributions will be fully credited.
+This Project is an open source software project and I encourage developers to contribute patches and code for us to include in the main package of this Project. All contributions will be fully credited.
 
 ## Using GitHub Issues
 * Feel free to use GitHub issues for questions, bug reports, and feature requests
@@ -77,50 +65,3 @@ Project Vibranium is an open source software project and I encourage developers 
 * Include as much information as possible and provide any relevant resources (Eg. screenshots)
 * For bug reports ensure you have a reproducible test case
     * A pull request with a breaking test would be super preferable here but isn't required
-
-## Versioning
-This project uses [semver](https://semver.org) for versioning. Current version: v2.0.0
-
-## Websites using Project Vibranium
-
-| Community Name | Location | Web App Link | 
-| --- | --- | --- | 
-| DSC Kisii University | Kenya | [Live Here](https://devclub-kisii.firebaseapp.com/) |
-| DSC Taita Taveta University | Kenya | [Live Here](https://dsc-at-ttu.firebaseapp.com/) |
-| DSC Bayero University Kano | Nigeria | [Live Here](https://dscbuk.club/) |
-| DSC Yabatech | Nigeria | [Live Here](https://dscyabatech.firebaseapp.com/) |
-| SemaPay | Kenya | [Live Here](https://semapay.co.ke/) |
-| DSC University of Nairobi | Kenya | [Live Here](https://dsc-uon.firebaseapp.com) |
-| DSC FUTA | Nigeria | [Live Here](https://dscfuta.com) |
-| DSC IBBUL | Nigeria | [Live Here](https://dscibbul.club) |
-| DSC Purdue University | Indiana, USA | [Live Here](https://dscpurdue.org/) |
-| DSC Univesity of Lagos| Nigeria | [Live Here](https://dscunilag.dev/)|
-| DSC Ekiti State University | Nigeria | [Live Here](https://dsceksu.herokuapp.com/)|
-| DSC Imo State University | Nigeria | [Live Here](https://dscimsu-69385.firebaseapp.com/)|
-| DSC Dominion University College, Accra | Ghana | [Live Here](https://dsc-duc.web.app/)|
-
-## License
-```
-Copyright (c) 2018 Project Vibranium 🔥
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
-
-
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkelvinkamau%2FVibranium.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkelvinkamau%2FVibranium?ref=badge_large)
